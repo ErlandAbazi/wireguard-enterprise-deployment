@@ -16,10 +16,10 @@ You won't need a coding background to understand how it works, and most of the b
 
 This software is available for all major platforms:
 
--- **Windows**: .exe and .msi installer with support for silent installation.
--- **Linux**: built-in for most distributions; available in GUI as well.
--- **macOS&iOS**: available in the App Store.
--- **MikroTik**: native support in RouterOS v7+.
+- **Windows**: .exe and .msi installer with support for silent installation.
+- **Linux**: built-in for most distributions; available in GUI as well.
+- **macOS&iOS**: available in the App Store.
+- **MikroTik**: native support in RouterOS v7+.
 
 ## 3. Clear and Readable Documentation
 
