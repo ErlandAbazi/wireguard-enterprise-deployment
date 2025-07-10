@@ -10,8 +10,6 @@ A real-world guide based on my own experience for deploying [WireGuard VPN](http
 - Troubleshooting for various scenarios.
 - Configuration examples.
 
----
-
 ## Architecture
 
 - **Server**: MikroTik Router (ROSv7)
@@ -54,17 +52,15 @@ Refer to [Documents/Architecture.md](https://github.com/ErlandAbazi/wireguard-en
 
 # Known Limitations
 
-- Key based authentication layer
-- Clients will require manual provisioning
+- Key based authentication layer.
+- Clients will require manual provisioning.
 
 # Repository Structure
 
-- Documents/ -> Details about the configuration
-- Configuration/ -> Examples from MikroTik, Windows Server and Clients
-- Images/ -> Diagrams and QR examples
-- Scripts/ -> Hopefully helpful scripts 
-
----
+- Documents -> Details about the configuration
+- Configuration -> Examples from MikroTik, Windows Server and Clients
+- Images -> Diagrams and QR examples
+- Scripts -> Hopefully helpful scripts 
 
 ## Contributions 
 
@@ -74,4 +70,5 @@ Do feel free to fork and adapt for your own environment and deployment scenarios
 ## References
 
 - [Wireguard Official Site](https://wireguard.com)
-- [Mikrotik WireGuard Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard) - [WireGuard GPO Deployment](https://github.com/WireGuard/wireguard-windows)
+- [Mikrotik WireGuard Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
+ - [WireGuard GPO Deployment](https://github.com/WireGuard/wireguard-windows)
