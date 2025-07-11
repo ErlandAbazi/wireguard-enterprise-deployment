@@ -32,6 +32,17 @@ On Windows:
 
 ## 4. Centralization
 
-No certificate authority means:
+- No certificate authority means if a peer's private key is compromised, you have to manually remove their key from all servers and regenerate. 
+- No real-time connection list tracking on MikroTik's UI.
 
-- If a peer's private key is compromised, you have to manually remove their key from all servers and regenerate 
+## 5. Limited Failover / High Availability
+
+The software does not offer:
+
+- Server failover or multi-gateway logic.
+- Dead Peer Detection or reconnection retries.
+- Health checks for tunnel state.
+
+From my understanding, DNS failover is the only option that you could work with, but that will require further testing.
+
+*I've listed some ideas for working around some of these gaps in either [Deployment.md](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Documents/Deployment.md) or [Troubleshooting.md](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Documents/Troubleshooting.md).*
