@@ -29,7 +29,7 @@ Refer to [Documents/Architecture.md](https://github.com/ErlandAbazi/wireguard-en
 	- Configure NAT rule and firewall
 	- Add WireGuard interface
 	- Create peers and allowed IPs
-- Example: [Configuration/Server.conf](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Configuration/Server.conf)
+- Example: [Configuration/Mikrotik-Server.md](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Configuration/Mikrotik-Server.md)
 
 2. **Windows Server Deployment**
 	- Configure GPO for silent WireGuard installation
@@ -39,8 +39,6 @@ Refer to [Documents/Architecture.md](https://github.com/ErlandAbazi/wireguard-en
 3. **Client Setup**
 	- How to's for manual configuration or scanning from `wg genqr` output
 	- Examples available in `images/` or in [Documents/Configuration-Examples.md](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Documents/Configuration-Examples.md)
-
----
 
 # Advantages
 
