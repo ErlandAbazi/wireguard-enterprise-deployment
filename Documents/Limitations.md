@@ -1,3 +1,8 @@
+---
+layout: default
+title: Limitations
+---
+
 # WireGuard: Limitations and Considerations
 
 While I've found WireGuard to be an excellent and modern VPN solution for what our company required, it's not a silver bullet. Below I will be listing some of the limitations that I've found and while none of them have been complete dealbreakers for me, it's best you consider them carefully, especially if security scrutiny is rampant in your company.

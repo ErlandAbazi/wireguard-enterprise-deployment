@@ -1,3 +1,8 @@
+---
+layout: default
+title: Configuration-Examples
+---
+
 # Configuration Examples
 
 This document contains ready-to-use configuration commands for:

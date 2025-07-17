@@ -1,3 +1,8 @@
+---
+layout: default
+title: Troubleshooting
+---
+
 # Troubleshooting Guide
 
 This page covers common WireGuard deployment issues and how to fix them — focused on MikroTik, Windows, and mobile clients. I will try to cover some important issues we've identified and how you can resolve them should a mistake come to pass.
