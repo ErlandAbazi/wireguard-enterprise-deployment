@@ -1,8 +1,3 @@
----
-layout: default
-title: Deployment
----
-
 # Deployment Guide
 
 This guide will walk you through deploying WireGuard using a MikroTik router as the server and the clients configured via **Group Policy**. It also includes support for mobile devices and registry-based tweaks. This document will show the entire process and if you simply want to see the commands, please consult with [Configuration-Examples.md](https://github.com/ErlandAbazi/wireguard-enterprise-deployment/blob/main/Documents/Configuration-Examples.md).

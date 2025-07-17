@@ -1,8 +1,3 @@
----
-layout: default
-title: Advantages
----
-
 # Advantages of WireGuard in Enterprise Deployment
 
 This document will outline the practical advantages observed during deployment in our company. This guide isn't meant as a deep dive into WireGuard code or its cryptography - for that, please reference the original project's documentation and [whitepaper here](https://wireguard.com/papers/wireguard.pdf). 

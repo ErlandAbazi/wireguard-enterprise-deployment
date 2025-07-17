@@ -1,8 +1,3 @@
----
-layout: default
-title: Overview
----
-
 # Project Overview
 
 This project is a **real-world WireGuard enterprise deployment guide**, built from the ground up by a sysadmin for other sysadmins. It provides a working model of how to securely connect remote users using WireGuard with minimal complexity. 

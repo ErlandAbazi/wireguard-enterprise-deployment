@@ -1,8 +1,3 @@
----
-layout: default
-title: Architecture
----
-
 # Architecture Overview
 
 This document outlines the architecture of this WireGuard-based VPN deployment, with a MikroTik router acting as the central VPN server and remote clients connecting from Windows, mobile, and other platforms.
