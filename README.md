@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 0
+---
+
 # Wireguard Enterprise Deployment 
 
 A real-world guide based on my own experience for deploying [WireGuard VPN](https://wireguard.com) as a viable solution for Windows, MacOS, Linux and mobile clients (Android&iOS) in an enterprise environment.
