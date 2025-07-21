@@ -25,7 +25,7 @@ This guide is written for fellow sysadmins — especially those working in:
 
 Whether you’re a one-person IT department or managing hundreds of machines, this project aims to hopefully get you up and running quickly with a working, secure configurations. Adapt as necessary.
 
-## 📦 What’s Included in This Repo
+## What’s Included in This Repo
 
 | Folder / File           | Description                                                          |
 |-------------------------|----------------------------------------------------------------------|
@@ -33,7 +33,6 @@ Whether you’re a one-person IT department or managing hundreds of machines, th
 | `Documents/`            | Full documentation: architecture, deployment steps, and explanations |
 | `Configuration/`        | Example MikroTik and client configurations                           |
 | `Configuration/Scripts/`| Optional helper scripts for deployment                               |
-| `Images/`               | Topology diagrams, QR examples, and visual guides                    |
 | `LICENSE`               | MIT License details.                                                 |
 
 ## Basic Architecture
