@@ -57,7 +57,6 @@ Refer to [Documents/Architecture.md](https://github.com/ErlandAbazi/wireguard-en
 
 - `Documents` -> Details about the configuration
 - `Configuration` -> Examples from MikroTik, Windows Server and Clients
-- `Images` -> Diagrams and QR examples
 - `Scripts` -> Hopefully helpful scripts 
 
 ## Contributions 
